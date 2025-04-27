@@ -137,19 +137,15 @@ npm run build
 
 1. 启动 Claude Desktop
 
-![claude desktop](/static/1.png)
 
 2. 进入设置界面
 
 Claude > 设置 > 开发者选项
 
-![claude settings](/static/claude_settings.gif)
 
 3. 编辑配置文件
 
 打开 `claude_desktop_config.json` 
-
-![claude config](/static/config.gif)
 
 4. 添加服务器配置并保存
 
@@ -171,9 +167,6 @@ Claude > 设置 > 开发者选项
 
 ### 使用示例
 
-效果展示
-
-![final result](/static/final_result.gif)
 
 ## 相关资源
 
